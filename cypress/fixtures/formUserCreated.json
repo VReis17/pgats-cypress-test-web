@@ -1,0 +1,20 @@
+{
+  "name": "QA Enginner",
+  "email": "teste.automation17121@tests.com.br",
+  "title": 0,
+  "password": "QA@2024",
+  "days": 12,
+  "months": 8,
+  "years": "1999",
+  "newsletter": true,
+  "optin": false,
+  "firstName": "Quality",
+  "lastName": "Assurance Enginner",
+  "company": "Assurance Q",
+  "address": "Avenida Mofarrej",
+  "country": "United States",
+  "state": "Texas",
+  "city": "Kansas",
+  "zipcode": "8789498",
+  "mobileNumber": "379 9862-879"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "pgats-cypress-test-web",
+  "version": "1.0.0",
+  "description": "Projeto de conclusão da disciplina de Automação WEB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vitor Reis França",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "cypress": "^13.7.3",
+    "cypress-mochawesome-reporter": "^3.8.2"
+  },
+  "dependencies": {
+    "pgats-cypress-test-web": "file:"
+  }
+}
