@@ -47,11 +47,22 @@
 
 ## Como inicializar
 
-Executar o comando abaixo:
+1. Instalar as dependencias do projeto:
 
-``````
-mvn -run
-``````
+```shell
+npm install
+```
+
+2. Executar os testes de forma headless
+
+```shell
+npx cypress run
+```
+3. Execucao de testes usando a interface do Cypress
+
+```shell
+npx cypress open
+```
 
 ## URLs de apoio
 
