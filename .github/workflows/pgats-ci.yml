@@ -1,11 +1,11 @@
-name: Cypress Tests
+name: Execucao Manual
 
 on:
   workflow_dispatch:
 
 jobs:
   cypress:
-    runs-on: ubuntu-latest  # Você pode escolher outras imagens se preferir
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Code
